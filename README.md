@@ -1,2 +1,1 @@
-# graph-ql
- 
+# graphql-crash-course
