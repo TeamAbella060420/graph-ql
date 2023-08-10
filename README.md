@@ -1,1 +1,0 @@
-# graphql-crash-course
